@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="Ordinario.csproj" />
+  <Project Path="../PracticasProfecionales/PracticasProfecionales.csproj" />
+  <Project Path="PaginaPracticas.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
 </Solution>
